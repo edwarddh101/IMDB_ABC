@@ -4,7 +4,7 @@
 Clarification Question:
 
 Goal:
-Crawl ABC show at episode level with rating, store them in the database(relational vs nosql)
+Crawl ABC show at episode level with rating, store them in the csv file.
 
 Set up:
 
