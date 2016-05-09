@@ -1,10 +1,10 @@
 # IMDB_ABC
 ​crawl the IMDB REST API using Python, to collect seasons, episodes and ratings of ABC shows
 
-Clarification Question:
+Approaches:
 
-Goal:
-Crawl ABC show at episode level with rating, store them in the csv file.
+1) Use sql to query the database, to get the product company is ABC
+2) Web scrapy Wiki first to get the name of ABC show, then use IMDbpy to retrieve the information of ABC show.
 
 Set up:
 
